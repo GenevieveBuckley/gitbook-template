@@ -43,7 +43,9 @@ the Gitbook editor.
     Email us and tell us your GitHub username so we can add you as a member.
 
 ### 3. Install the GiHub desktop app
-
+* Download the GitHub desktop app for your operating system at: https://desktop.github.com/
+* Install the GitHub desktop app using the install wizard.
+* Note: The default path will be: ~\\Documents\\GitHub\\
 
 ### 4. Install the GitBook editor
 * Download the GitBook editor at: https://www.gitbook.com/editor
