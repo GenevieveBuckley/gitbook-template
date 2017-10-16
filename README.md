@@ -75,9 +75,31 @@ https://help.github.com/desktop/guides/contributing-to-projects/cloning-a-reposi
 
 
 ## Contributing to a GitBook
+Open the Gitbook editor software, and click on the name of the particular Gitbook you want to edit.
 
+*If you can't see the name of the Gitbook you want when you open the GitBook editor, check you have cloned it from GitHub.com. Then check if the repository is in the right place on your computer, i.e. ~\\Documents\\GitHub\\Gitbook_library\\Gitbooks\\repository-name\\ .*
 
-### Check for any changes made by other people
+### 1. Check for any changes made by other people
+This is important to do whenever you open a Gitbook for editing. 
+In the Gitbook editor, go to the "Book" menu, and click "Pull". 
+This looks for any changes shared on the GitHub.com repository, then pulls those changes to your computer so your copy is up to date.
+
+### 2. Add your content
+The contents of Gitbooks (text, images, tables, etc) use Markdown formatting. You can change the formatting using the options in the "Markup" menu. Here's an easy guide to using Markdown, if you'd like to know more: https://guides.github.com/features/mastering-markdown/
+
+ou can add new articles to the book by clicking the "Add an article" button in the left hand side menu. Alternatively, you can go to the Gitbook Editor menu and click "New Article".
+
+You can organise articles into sections by right-clicking in the left hand side menu and selecting "Add part". For more information:
+* https://gitbookio.gitbooks.io/documentation/content/format/chapters.html
+* https://toolchain.gitbook.com/structure.html
+
+### 3. Sync your changes
+lick the blue button at the top right hand corner of the Gitbook editor to **save** your changes. The button will change to a more transparent shade of blue, and a second "Publish and Sync" blue button will appear in the top right hand corner. Click the publish and sync button
+@ -90,21 +97,20 @@ For the time being, we have to manually build the html webpages before they can
+In the near future, we plan to make use a continuous integration service so that the online version can be kept current at all times.
+
+### 4. Get the book built
+Currently, a MMI staff member will need to build the html book before edits can be displayed online. Please email to request this if your changes have been significant. In the future, we plan to use a continuous integration service to build automatically following changes, so the online book will be up to date at all times.
 
 ## Glossary
 * **git** is the name of the version control system we use so that many people can work on the same project at once.
