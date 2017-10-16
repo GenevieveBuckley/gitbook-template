@@ -51,14 +51,25 @@ the Gitbook editor.
 * Download the GitBook editor at: https://www.gitbook.com/editor
 * Install the Gitbook editor using the install wizard.
 (Optional: You don't have to make an account on the GitBook website. The Gitbook editor will prompt you to sign up or login every time you open the editor, but you can just click 'No thanks' or 'Remind me later'.)
-7. Change the GitBook library path:
-    a. Open the GitBook editor you just installed.
-    b. Click the GitBook editor menu, then click "Change Library Path..."
-    c.
+* Change the GitBook library path.
+*(This step is so you get a nice list of all your Gitbooks when you open the Gitbook Editor.)*
+  1. Create two sub-directories (folders) inside your GitHub folder.
 
-## Clone the GitBooks you want to contribute to
-https://github.com/monashmicroimaging
+    *You can make the new folders with Windows Explorer/Finder/Dolphin (Windows/Mac/Linux) or however you usually like to create folders.*
+    * The first folder is called "Gitbook_library" and goes inside the folder named "GitHub", eg: ~\\Documents\\GitHub\\Gitbook_library\\
+    * The second folder is called "Gitbooks" and goes inside the folder named "Gitbook_library", eg: ~\\Documents\\GitHub\\Gitbook_library\\Gitbooks\\
 
+  1. Change the library path of the Gitbook Editor
+    * Open the GitBook editor you just installed.
+    * Click the GitBook editor menu, then click "Change Library Path..."
+    * Set the Gitbook editor path to: ~\\Documents\\GitHub\\Gitbook_library\\
+
+Done! You have everything installed now that you'll need to contribute to our Gitbooks.
+
+## Get the Gitbooks (cloning from GitHub.com)
+  * Go to the Monash Micro Imaging github page: https://github.com/monashmicroimaging
+  * Find the Gitbook you want in the list of repositories, and click to open it (eg: gitbook-fiji-training).
+  * Now click the green "Clone or download" button on the right hand side, then click "Open in Desktop".
 Find the Gitbook you want, and clone it
 https://help.github.com/desktop/guides/contributing-to-projects/cloning-a-repository-from-github-to-github-desktop/
 
