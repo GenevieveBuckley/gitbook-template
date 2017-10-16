@@ -1,14 +1,13 @@
 # MMI Training Material Gitbook Template
 This repository hosts a template for MMI's training material gitbooks. The idea
-is that this repo can be clone and modified for new training books. It also
-includes some basic instructions below for contributors to the book, including
-how to install the necessary requirements to edit and write the book using the
+is that this repo can be cloned and modified for new training books. It also
+includes some basic instructions below for book contributors/editors, including
+how to install the necessary requirements to edit books using the
 [Gitbook editor](https://www.gitbook.com/editor).
 
 ## Using this template
-If you haven't got `git` installed on your local machine or haven't signed up
-for a Github account, please first follow the contributor/editor instructions
-below to do that.
+If you haven't got `git` installed on your local machine and/or haven't signed up
+for a Github account, please follow the first 2 contributor/editor instructions below.
 
 1. Clone this repository to your local machine:
 ```
