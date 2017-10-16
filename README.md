@@ -79,21 +79,29 @@ https://help.github.com/desktop/guides/contributing-to-projects/cloning-a-reposi
 
 ### Check for any changes made by other people
 
+## Glossary
+* **git** is the name of the version control system we use so that many people can work on the same project at once.
+* A **repository** is the project folder, containing all of our files and the revision history for the book.
+* **Cloning** is making a copy of a repository on your computer for you to work on.
+* **GitHub.com** is the website where we are hosting our repositories. It's based on the git version control system.
+* The **GitHub desktop** and the **GitBook editor** are the two software tools we'll use. Not to be confused with one another!
+  * The **GitHub desktop** is what we'll use to get a copy (clone) of our repositories from GitHub.com
+  * The **GitBook editor** is what we'll use for editing our book contents, then sharing those changes.
 
 ## Further resources
-## Generating eBooks and pdfs
-https://toolchain.gitbook.com/ebook.html
+#### Generating eBooks and pdfs
+* https://toolchain.gitbook.com/ebook.html
 
-### Markdown syntax guides
-http://commonmark.org/help/
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+#### Markdown syntax guides
+* http://commonmark.org/help/
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-### GitBook help
-GitBook help centre website: https://help.gitbook.com/
+#### GitBook help
+* https://help.gitbook.com/
 
 ### GitHub help
-https://help.github.com/
+* https://help.github.com/
 
-### GitHub pages
-https://pages.github.com/
-https://help.github.com/articles/using-a-custom-domain-with-github-pages/
+#### GitHub pages
+* https://pages.github.com/
+* https://help.github.com/articles/using-a-custom-domain-with-github-pages/
