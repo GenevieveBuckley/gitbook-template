@@ -1,4 +1,7 @@
 # MMI Training Material Gitbook Template
+
+[![Build Status](https://travis-ci.org/GenevieveBuckley/gitbook-template.svg?branch=master)](https://travis-ci.org/GenevieveBuckley/gitbook-template)
+
 This repository hosts a template for MMI's training material gitbooks. The idea
 is that this repo can be cloned and modified for new training books. It also
 includes some basic instructions below for book contributors/editors, including
