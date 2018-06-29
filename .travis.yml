@@ -1,3 +1,5 @@
+script:
+    - scripts/publish_gitbook.sh
 deploy:
   provider: pages
   skip-cleanup: true
